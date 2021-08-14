@@ -1,6 +1,6 @@
 # Zero to Pandas
 
-Coursework related to basics of Python, Pandas, Numpy, Visualization using Python and Exploratory Data Analysis offered by https://www.jovian.ai \
+Coursework related to basics of Python, Pandas, Numpy, Visualization using Python and Exploratory Data Analysis offered by https://www.jovian.ai 
 
 Following is the case study discussed during the course
 * Project Title - StackOverflow Survey
