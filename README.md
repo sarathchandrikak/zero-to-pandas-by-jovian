@@ -8,4 +8,4 @@ Following is the case study discussed during the course
 
 Following is the project related to Exploratory Data Analysis.
 * Project Title - Forest Fires EDA
-* Dataset - https://www.kaggle.com/elikplim/forest-fires-data-set 
+* [Dataset](https://www.kaggle.com/elikplim/forest-fires-data-set)
