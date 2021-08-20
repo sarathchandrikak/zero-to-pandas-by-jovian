@@ -15,7 +15,7 @@
 ### 📍 StackOverflow Survey Exploratory Data Analysis
 
 Analyzing responses from the Stack Overflow Annual Developer Survey 2020
-Dataset is downloaded from StackOverflow website and stored in Open Dasets collection of Jovian. [Here](https://raw.githubusercontent.com/JovianML/opendatasets/master/data/stackoverflow-developer-survey-2020/survey_results_public.csv) is the link to dataset.
+Dataset is downloaded from StackOverflow website and stored in Open Datasets collection of Jovian. [Here](https://raw.githubusercontent.com/JovianML/opendatasets/master/data/stackoverflow-developer-survey-2020/survey_results_public.csv) is the link to dataset.
 
 ### 📍 Forest Fires Exploratory Data Analysis
 
